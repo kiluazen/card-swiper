@@ -5,11 +5,11 @@ const dislike = document.querySelector('#dislike');
 
 // constants
 const urls = [
-  'https://source.unsplash.com/random/1000x1000/?sky',
-  'https://source.unsplash.com/random/1000x1000/?landscape',
-  'https://source.unsplash.com/random/1000x1000/?ocean',
-  'https://source.unsplash.com/random/1000x1000/?moutain',
-  'https://source.unsplash.com/random/1000x1000/?forest'
+  'https://picsum.photos/seed/sky/1000/1000',
+  'https://picsum.photos/seed/landscape/1000/1000',
+  'https://picsum.photos/seed/ocean/1000/1000',
+  'https://picsum.photos/seed/moutain/1000/1000',
+  'https://picsum.photos/seed/forest/1000/1000'
 ];
 
 // variables
